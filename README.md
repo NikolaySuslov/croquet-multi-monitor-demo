@@ -14,7 +14,9 @@ Example Multi-screen grid (x/y)
   ..    ..    ..
 ```
 
-[Demo video](https://vimeo.com/348916910)
+[Demo video](https://vimeo.com/348916910)  
+
+Live demo at Glitch: [https://glitch.com/~croquet-multi-monitor-demo](https://glitch.com/~croquet-multi-monitor-demo)  
 
 Multi-monitor setup using smartphones  
 <img src="https://krestianstvo.org/sdk/projects/croquet-multi-monitor-demo/croquet-multi-monitor.jpg" width=400> <br>
