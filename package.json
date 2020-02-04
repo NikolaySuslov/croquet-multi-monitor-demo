@@ -1,0 +1,23 @@
+{
+  "name": "croquet-multi-monitor-demo",
+  "description": "Spans the render view across multiple screen/monitor/machine setups using Croquet",
+  "version": "0.0.1",
+  "author": "Nikolai Suslov",
+  "homepage": "https://croquet.krestianstvo.org",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NikolaySuslov/croquet-multi-monitor-demo.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "node-static": "0.7.11"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "croquet"
+  ],
+  "readmeFilename": "README.md",
+  "license": "MIT"
+}
